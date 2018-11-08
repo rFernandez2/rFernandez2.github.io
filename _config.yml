@@ -1,0 +1,59 @@
+# Site settings
+title:       roberto fern&aacute;ndez
+email:       roberto.fernandez002@gmail.com
+author:      Roberto Fernandez
+description: ""
+baseurl:     ""
+url:         "http://rfernandez2.github.io"
+
+# Optional features
+animated:           false
+show_related_posts: true
+show_post_footers:  true
+show_social_icons:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments: 
+facebook_appid: 
+facebook_comments_number:
+
+# Social icons
+github_username: rfernandez2
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username: roberto-fernandez2
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text:
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     4
+sass:
+  compressed: true
